@@ -11,3 +11,5 @@
 # yes I can see you on RStudio!
 
 # fork fork fork
+
+counting<-c(1,2,3)
