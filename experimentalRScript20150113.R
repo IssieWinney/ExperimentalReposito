@@ -12,4 +12,7 @@
 
 # fork fork fork
 
+
 # Andrew!
+
+counting<-c(1,2,3)
